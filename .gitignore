@@ -62,3 +62,6 @@ ios/Pods/
 ios/build/
 *.xcworkspace/xcuserdata/
 *.xcuserdatad/
+android/app/debug.keystore
+*.keystore
+*.jks
